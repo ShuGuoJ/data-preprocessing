@@ -8,4 +8,5 @@
 ![image](image/normalization.gif)  
 3.中心化  
 该方法将数据的中心调整为原点。  
-![image](image/centralization.gif)
+![image](image/centralization.gif)  
+在上述式子中，某些需要计算变量的均值和方差。一般情况下，我们都不知道feature的分布，即使知道其分布的形式，也不知道分布的参数值，如均值和方差。所以，我们通常会用样本的均值和方差来代替总体的均值和方差。虽然数学不是完全地完美，但是在某些情况下，我们会忽略其缺陷。
