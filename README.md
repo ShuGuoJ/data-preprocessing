@@ -8,4 +8,4 @@
 ![image](image/normalization.gif)  
 3.中心化  
 该方法将数据的中心调整为原点。  
-![image](image.centralization.gif)
+![image](image/centralization.gif)
